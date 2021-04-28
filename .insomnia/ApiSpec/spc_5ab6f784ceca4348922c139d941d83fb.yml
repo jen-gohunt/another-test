@@ -1,0 +1,14 @@
+_id: spc_5ab6f784ceca4348922c139d941d83fb
+type: ApiSpec
+parentId: wrk_33cfbf9889524b83abc7bcb62d5fbd90
+modified: 1619652003294
+created: 1619651917865
+fileName: another-test
+contents: "openapi: 3.0.3
+
+  info:
+
+  \  description: test
+
+  \  "
+contentType: yaml
